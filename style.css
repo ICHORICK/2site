@@ -15,7 +15,7 @@ h1{
 }
 
 .link-nav{
-    background-image: linear-gradient(blue, yellow);
+    background-image: linear-gradient(white);
     text-decoration: none;ite
     height: 40px;
     width: 120px;
@@ -25,14 +25,14 @@ h1{
     border-radius: 20px;}
 
     .link-nav:hover{
-background-image: linear-gradient(yellow, white);
+background-image: linear-gradient(white);
     }
 
     main{
-    background-image: linear-gradient(blue, white);
+    background-image: linear-gradient(white);
 }
 
 footer{
-    background-image: linear-gradient(blue, yellow);
+    background-image: linear-gradient(yellow);
     font-size: 18px;
 }
